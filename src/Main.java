@@ -12,7 +12,7 @@ public class Main extends JFrame implements Commons {
      * Inicio
      */
     private static final String TOP_MESSAGE = "Space Invader Game";
-    private static final String INITIAL_MESSAGE = "학번 / 이름";
+    private static final String INITIAL_MESSAGE = "지구에 쳐들어온 괴물을 죽여라";
     /*
      * Ajuda
      */
